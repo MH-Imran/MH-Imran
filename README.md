@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Imran  
+### Aspiring SOC Analyst | Blue Team | SIEM | Threat Detection | Python
 
-<!--
-**MH-Imran/MH-Imran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building my cybersecurity career through hands-on labs, home lab projects, and learning defensive security.  
+My goal is to become a **SOC Analyst** within 12 months.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 What I’m Focused On
+- SIEM (Security Onion, Wazuh)  
+- Log Analysis & Alert Triage  
+- Threat Detection & MITRE ATT&CK  
+- Incident Response  
+- Python Automation for SOC  
+- Linux & Networking Fundamentals  
+
+---
+
+## 🧪 Home Lab
+Actively practicing in my own security lab using:
+- Security Onion  
+- Wazuh  
+- Kali Linux  
+- Windows Event Logs  
+- Network traffic analysis  
+
+I document configs, detections, and findings inside my repos.
+
+---
+
+## 📂 Featured Repositories
+- **[My Cybersecurity Journey](https://github.com/MH-Imran/my-cybersecurity-journey)**  
+- **[Python for SOC](https://github.com/MH-Imran/python-for-soc)**  
+
+More projects coming soon…
+
+---
+
+## 🧭 Certifications I'm Working Toward
+- CompTIA Security+  
+- Blue Team Level 1 (BTL1)  
+- CompTIA CySA+  
+
+---
+
+## 🌐 Connect With Me
+- **LinkedIn:** https://linkedin.com/in/mahamudul-hasan-imran  
+- **GitHub:** https://github.com/MH-Imran  
+
+---
+
+Thanks for visiting my profile!
