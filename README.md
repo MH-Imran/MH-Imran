@@ -1,5 +1,4 @@
-# 👋 Hi, 
-I'm Imran  
+# 👋 Hi, I'm Imran  
 ### Aspiring SOC Analyst | Blue Team | SIEM | Threat Detection | Python
 
 I'm building my cybersecurity career through hands-on labs, home lab projects, and learning defensive security.  
