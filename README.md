@@ -73,7 +73,7 @@ Still learning a lot, still confused sometimes, but it’s interesting enough to
 If you’re learning cybersecurity too or just curious, feel free to reach out:
 
 LinkedIn:  
-https://linkedin.com/in/your-link-here
+https://linkedin.com/in/mahamudul-hasan-imran
 
 ---
 
