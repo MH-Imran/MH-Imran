@@ -1,3 +1,4 @@
+![logo](https://github.com/MH-Imran/MH-Imran/blob/main/github%20banner.png)
 # 👋 Hi, I'm Imran  
 ### Aspiring SOC Analyst | Blue Team | SIEM | Threat Detection | Python
 
