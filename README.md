@@ -1,53 +1,80 @@
 ![logo](https://github.com/MH-Imran/MH-Imran/blob/main/github%20banner.png)
-# 👋 Hi, I'm Imran  
-### Aspiring SOC Analyst | Blue Team | SIEM | Threat Detection | Python
+# 👋 Hey, I'm Imran
 
-I'm building my cybersecurity career through hands-on labs, home lab projects, and learning defensive security.  
-My goal is to become a **SOC Analyst** within 12 months.
+So… I'm basically figuring out cybersecurity step by step. Still kinda new to all this.  
+This place (GitHub) is just where I throw my notes, stuff I’m learning, and whatever I’m trying to understand at the moment.  
+Not really a polished profile or anything, just my learning trail.
 
----
-
-## 🔐 What I’m Focused On
-- SIEM (Security Onion, Wazuh)  
-- Log Analysis & Alert Triage  
-- Threat Detection & MITRE ATT&CK  
-- Incident Response  
-- Python Automation for SOC  
-- Linux & Networking Fundamentals  
+Most of days I’m just trying to understand the basics properly. Some days it clicks, some days it doesn’t.  
+But I guess that’s normal.
 
 ---
 
-## 🧪 Home Lab
-Actively practicing in my own security lab using:
-- Security Onion  
-- Wazuh  
-- Kali Linux  
-- Windows Event Logs  
-- Network traffic analysis  
+## 🔹 What I’m Learning (honestly, a bit of everything)
 
-I document configs, detections, and findings inside my repos.
+Right now I’m moving between a few things:
 
----
+- Trying to understand SIEM tools and setting up small home labs. I break it a lot, then fix it, then break it again.
+- Networking stuff like LAN, OSI, ARP, DNS, DHCP. I keep forgetting parts and then relearning them.
+- Looking at logs and trying to figure out “why did this happen?” instead of just reading the alert.
+- MITRE ATT&CK… honestly it’s big, so I’m reading it slowly.
+- Linux commands. Some make sense, some don’t… still learning.
+- Doing TryHackMe rooms and writing short notes so future-me doesn’t forget everything.
 
-## 📂 Featured Repositories
-- **[My Cybersecurity Journey](https://github.com/MH-Imran/my-cybersecurity-journey)**  
-- **[Python for SOC](https://github.com/MH-Imran/python-for-soc)**  
-
-More projects coming soon…
+Nothing perfectly organized, but I’m moving forward.
 
 ---
 
-## 🧭 Certifications I'm Working Toward
-- CompTIA Security+  
-- Blue Team Level 1 (BTL1)  
-- CompTIA CySA+  
+## 🔹 Repos I Update Often  
+(just my learning notes, nothing fancy)
+
+- **TryHackMe Progress**  
+  Notes from rooms I do. Mostly networking and beginner Blue Team stuff.  
+  https://github.com/MH-Imran/tryhackme-progress
+
+- **MITRE ATT&CK Notes**  
+  Me trying to understand attacker techniques in simple words.  
+  https://github.com/MH-Imran/mitre-attack-notes
+
+- **Linux & Networking Notes**  
+  Commands, reminders, and things I need to revisit often.  
+  https://github.com/MH-Imran/linux-and-networking-notes
+
+- **Cybersecurity Journey**  
+  My roadmap and general progress.  
+  https://github.com/MH-Imran/cybersecurity-journey
 
 ---
 
-## 🌐 Connect With Me
-- **LinkedIn:** https://linkedin.com/in/mahamudul-hasan-imran  
-- **GitHub:** https://github.com/MH-Imran  
+## 🔹 Skills I’m Slowly Building
+
+Not an expert in any of these yet, but trying:
+
+- Blue Team basics  
+- SIEM fundamentals  
+- Linux  
+- Python (just simple scripts for now)  
+- Log analysis  
+- MITRE ATT&CK ideas  
+- Networking basics  
 
 ---
 
-Thanks to visiting my profile!
+## 🔹 Why Cybersecurity?
+
+I’ve always liked figuring out how things work… and how they break.  
+Cybersecurity feels like a mix of curiosity, logic, and a bit of chaos — and I kinda like that.  
+Still learning a lot, still confused sometimes, but it’s interesting enough to keep me going.
+
+---
+
+## 🔹 Connect With Me
+
+If you’re learning cybersecurity too or just curious, feel free to reach out:
+
+LinkedIn:  
+https://linkedin.com/in/your-link-here
+
+---
+
+### Still learning. Still messing up. Still moving forward.
