@@ -1,4 +1,4 @@
-![logo](https://github.com/MH-Imran/MH-Imran/blob/main/github%20banner.png)
+![logo](https://github.com/MH-Imran/MH-Imran/blob/main/MH-Imran.png)
 
 # Hey, I'm Imran
 
